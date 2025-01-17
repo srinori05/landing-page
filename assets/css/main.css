@@ -75,7 +75,7 @@ input, select, textarea {
 
 /* Navbar */
 	.navbar {
-		/* background-image: linear-gradient(45deg, #000000 5%, #000000 30%, #000000); */
+		background-image: linear-gradient(45deg, #000000 5%, #000000 30%, #000000);
 		overflow: hidden;
 		position: fixed;
 		width: 100%;
